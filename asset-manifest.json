@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/somet-app/static/css/main.073c9b0a.css",
+    "main.js": "/somet-app/static/js/main.bbe05f47.js",
+    "static/js/787.9a04f3fe.chunk.js": "/somet-app/static/js/787.9a04f3fe.chunk.js",
+    "static/media/logo.svg": "/somet-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/somet-app/index.html",
+    "main.073c9b0a.css.map": "/somet-app/static/css/main.073c9b0a.css.map",
+    "main.bbe05f47.js.map": "/somet-app/static/js/main.bbe05f47.js.map",
+    "787.9a04f3fe.chunk.js.map": "/somet-app/static/js/787.9a04f3fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bbe05f47.js"
+  ]
+}
